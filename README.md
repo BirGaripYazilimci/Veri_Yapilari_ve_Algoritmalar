@@ -1,1 +1,1 @@
-# Veri_Yapilari_ve_Algoritmalar
+www.patika.dev
